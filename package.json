@@ -1,0 +1,16 @@
+{
+    "name": "webhook-api",
+    "version": "1.0.0",
+    "description": "webhook api mendawai",
+    "main": "app.js",
+    "scripts": {
+        "start": "node app.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "malik dev",
+    "license": "MIT",
+    "dependencies": {
+        "express": "^4.17.1",
+        "http": "^0.0.1-security"
+    }
+}
